@@ -1,11 +1,11 @@
 # Site settings
-title: Friday Machines - AI Software Services
+title: Friday Machines - AI
 email: ugenfriday15@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "FAt Friday Machines, we provide the best AI solutions."
+description: "At Friday Machines, we provide the best AI solutions."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "AI - Machine Learning - Backend"
+meta_author: Friday Machines
 
 # Google webmaster tools
 google_verify:
@@ -32,8 +32,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Friday Machines
+  location: Malaysia
   social: Around the Web
   credits: Credits
 
@@ -51,9 +51,9 @@ social:
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
